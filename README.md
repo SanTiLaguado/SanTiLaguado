@@ -1,6 +1,6 @@
 # Hi 👋,  SanTiLaguado
-<h3 align="center">Junior Developer on learning process, Made in Colombia 🇨🇴h3>
- I’m currently learning on **Campuslands**
+<h3 align="center">Junior Developer in learning process, Made in Colombia 🇨🇴
+- I’m currently learning on Campuslands
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santilaguado&label=Profile%20views&color=0e75b6&style=flat" alt="santilaguado" /> </p>
 
 <h3 align="left">Connect with me:</h3>
