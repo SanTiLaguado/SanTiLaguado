@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santilaguado&label=Profile%20views&color=0e75b6&style=flat" alt="santilaguado" /> </p>
 
-- 🚀 I’m currently training my programming at **Campuslands**
+- 🚀 I’m currently training my programming skills at **Campuslands**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
