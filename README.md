@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Santiago Laguado Osorio</h1>
-<h3 align="center">A Junior Developer in learning process, Made in Colombia 🇨🇴</h3>
+<h1 align="center">console.log(" ¡Hello World! <img src="https://www.emojiall.com/images/60/telegram/1f44b.gif" width="40px"> ");</h1>
+<h2 align="center">I'm Santiago Laguado Osorio 🧑‍💻</h2>
+<h3 align="center">A passionate fullstack developer from Colombia</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santilaguado&label=Profile%20views&color=0e75b6&style=flat" alt="santilaguado" /> </p>
 
