@@ -17,10 +17,10 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,spring,mysql,python,flutter"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma" />
+    <img src="https://skillicons.dev/icons?i=java&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=javascript,mysql,python,flutter"/>
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,bootstrap,html,css,github,git"/>
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma"/>
 <br>
 
 </div>
