@@ -19,7 +19,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java&theme=light"/>
     <img src="https://skillicons.dev/icons?i=javascript,mysql,python,flutter"/>
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,bootstrap,html,css,github,git"/>
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,react,bootstrap,html,css,github,git"/>
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma"/>
 <br>
 
