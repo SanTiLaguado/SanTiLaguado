@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santilaguado&label=Profile%20views&color=0e75b6&style=flat" alt="santilaguado" /> </p>
 
-- 🚀 I am currently finishing my training at **Campuslands** :)
+- 🚀 I recently completed my training at Campuslands, where I gained technical skills in full-stack development. I am now seeking job opportunities that allow me to apply and expand this knowledge, aiming to contribute to the growth of innovative tech projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
